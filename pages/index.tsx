@@ -29,7 +29,7 @@ const Home: React.FC = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className="min-h-screen flex flex-col bg-white">
+      <div className="min-h-screen flex flex-col">
         <HeroSection />
         <Footer />
       </div>
