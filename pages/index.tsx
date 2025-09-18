@@ -1,7 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
 import HeroSection from '../components/HeroSection';
-import Footer from '../components/Footer';
 
 const Home: React.FC = () => {
   return (
@@ -31,7 +30,6 @@ const Home: React.FC = () => {
 
       <div className="min-h-screen flex flex-col">
         <HeroSection />
-        <Footer />
       </div>
     </>
   );
