@@ -42,4 +42,8 @@ body {
   .animate-delay-600 {
     animation-delay: 600ms;
   }
+
+  .animate-float-delay {
+    animation-delay: 1.5s;
+  }
 }

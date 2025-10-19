@@ -1,6 +1,6 @@
-# TripPilot Landing Page
+# Waveer Landing Page
 
-Una landing page minimalista para TripPilot, un organizador de viajes con IA en desarrollo.
+Una landing page minimalista para Waveer, un organizador de viajes con IA en desarrollo.
 
 ## Tecnologías
 

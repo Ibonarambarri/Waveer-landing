@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8">
         <div className="flex flex-col sm:flex-row justify-between items-center space-y-4 sm:space-y-0">
           <div className="text-sm sm:text-base text-gray-600 font-bold">
-            © {currentYear} TripPilot. All rights reserved.
+            © {currentYear} Waveer. All rights reserved.
           </div>
 
           <div className="flex space-x-6 sm:space-x-8">
